@@ -1,0 +1,17 @@
+{
+  "platformName": "iOS",
+  "appium:automationName": "XCUITest",
+  "appium:udid": "00008150-00154C6C0E46401C",
+  "appium:deviceName": "TQA_Test_17",
+  "appium:bundleId": "com.cathaybk.geb",
+
+  "appium:xcodeOrgId": "FRJJ886SD8",
+  "appium:xcodeSigningId": "iPhone Developer",
+
+  "appium:newWDA": true,
+  "appium:usePrebuiltWDA": false,
+
+  "appium:wdaLaunchTimeout": 120000,
+  "appium:wdaConnectionTimeout": 120000
+}
+

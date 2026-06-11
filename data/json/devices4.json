@@ -1,0 +1,22 @@
+{
+  "appiumServerUrl": "http://127.0.0.1",
+  "defaultRole": "old",
+  "devices": {
+    "new": {
+      "platform": "ios",
+      "udid": "00008150-00154C6C0E46401C",
+      "wdaLocalPort": 8102,
+      "bundleId": "com.cathaybk.geb",
+      "deviceName": "iPhone 17",
+      "appiumPort": "4723"
+    },
+    "old": {
+      "platform": "android",
+      "udid": "58301FDCR0030G",
+      "systemPort": 8277,
+      "deviceName": "Pixel 10",
+      "appiumPort": "4723"
+
+    }
+  }
+}

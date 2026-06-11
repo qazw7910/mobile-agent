@@ -1,0 +1,21 @@
+{
+  "appiumServerUrl": "http://127.0.0.1",
+  "defaultRole": "old",
+  "devices": {
+    "old": {
+      "platform": "android",
+      "udid": "M9AIB7604631VPZ",
+      "systemPort": 8260,
+      "deviceName": "ASUS_Zenfone_8",
+      "appiumPort": "4723"
+    },
+    "new": {
+      "platform": "android",
+      "udid": "58301FDCR0030G",
+      "systemPort": 8261,
+      "deviceName": "Pixel 10",
+      "appiumPort": "4801"
+
+    }
+  }
+}

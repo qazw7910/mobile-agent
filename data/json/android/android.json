@@ -1,0 +1,8 @@
+{
+  "platformName": "Android",
+  "udid": "58301FDCR0030G",
+  "automationName": "UiAutomator2",
+  "appPackage": "com.cathaybk.geb.cubuat",
+  "appActivity": "com.cathaybk.geb.feature.BootActivity",
+  "noReset": true
+}

@@ -1,0 +1,22 @@
+{
+  "appiumServerUrl": "http://127.0.0.1",
+  "defaultRole": "old",
+  "devices": {
+    "old": {
+      "platform": "ios",
+      "udid": "E3B41C29-CC65-4BE0-9C39-BC27A5AF97C6",
+      "wdaLocalPort": 8103,
+      "bundleId": "com.cathaybk.geb",
+      "deviceName": "iPhone 16 Pro",
+      "appiumPort": "4723"
+    },
+    "new": {
+      "platform": "ios",
+      "udid": "1C023E72-72E7-4A64-91A0-15484676A023",
+      "wdaLocalPort": 8102,
+      "bundleId": "com.cathaybk.geb",
+      "deviceName": "iPhone 16 Pro Max",
+      "appiumPort": "4801"
+    }
+  }
+}

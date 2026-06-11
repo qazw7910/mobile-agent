@@ -1,0 +1,8 @@
+{
+  "platformName": "iOS",
+  "udid": "00008150-00154C6C0E46401C",
+  "automationName": "XCUITest",
+  "bundleId": "com.cathaybk.geb",
+  "noReset": true,
+  "enforceXcodeCmdlineTools": true
+}

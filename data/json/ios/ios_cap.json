@@ -1,0 +1,16 @@
+{
+    "platformName": "iOS",
+    "appium:automationName": "XCUITest",
+    "appium:udid": "00008150-00154C6C0E46401C",
+    "appium:deviceName": "TQA_Test_17",
+    "appium:platformVersion": "26.2",
+    "appium:iosDeviceType": "real",
+    "appium:bundleId": "com.cathaybk.geb",
+    "appium:updateWDABundleId": "com.facebook.WebDriverAgentRunner",
+    "appium:xcodeOrgId": "FRJJ886SD8",
+    "appium:newWDA": true,
+    "appium:usePrebuiltWDA": false,
+    "appium:showXcodeLog": true,
+    "appium:wdaConnectTimeout": 120000,
+    "appium:wdaLaunchTimeout": 120000
+}
