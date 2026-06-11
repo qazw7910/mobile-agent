@@ -1,9 +1,14 @@
 {
-  "platformName": "ios",
-  "platformVersion": "26.2",
-  "udid": "8BB9D897-A0D7-400E-AB9F-BC16C24DFBAC",
-  "automationName": "XCUITest",
-  "bundleID": "com.cathaybk.iWA.ut",
-  "noReset": true,
-  "shouldTerminateApp": true
+  "platformName": "iOS",
+  "appium:automationName": "xcuitest",
+  "appium:deviceName": "TQA_TEST_17",
+  "appium:udid": "00008150-00154C6C0E46401C",
+  "appium:platformVersion": "17.4",
+  "appium:bundleId": "com.cathaybk.geb",
+  "appium:usePrebuiltWDA": true,
+  "appium:autoGrantPermissions": true,
+  "appium:noReset": true,
+  "appium:shouldTerminateApp": true,
+  "appium:disableIdLocatorAutocompletion": true,
+  "appium:waitForIdleTimeout": 100
 }

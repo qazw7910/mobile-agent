@@ -1,0 +1,9 @@
+{
+  "platformName": "ios",
+  "platformVersion": "26.2",
+  "udid": "8BB9D897-A0D7-400E-AB9F-BC16C24DFBAC",
+  "automationName": "XCUITest",
+  "bundleID": "com.cathaybk.iWA.ut",
+  "noReset": true,
+  "shouldTerminateApp": true
+}

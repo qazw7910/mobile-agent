@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "mobile-mcp": {
+      "disabled": false,
+      "timeout": 1000,
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "appium-mcp@latest"
+      ],
+      "env": {
+        "DEVELOPER_DIR": "/Applications/Xcode26.2.app/Contents/Developer",
+        "CAPABILITIES_CONFIG": "/Users/twinb00597756/Desktop/test_script/mobile-mcp-refactor-simplify-spec/data/json/ios/ios.json",
+        "APPIUM_PORT": 4723
+      }
+    }
+  }
+}
